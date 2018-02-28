@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+hr{
+  margin:0;
+  padding:0;
+}
+form{
+  width:400px;
+  padding-top:20px;
+  margin-left:50px;
+  maring-top:0;
+  padding:10px;
+  border-top:solid 2px #EE82EE;
+  border-left:dashed 1px #CDB38B;
+  border-right:dashed 1px #CDB38B;
+  border-bottom:dashed 1px #CDB38B;
+}
+input{
+  margin:10px 10px 10px 0;
+}
+.button{
+  text-align:center;
+}
+.button input{
+  width:50px;
+  height:30px;
+  line-height:30px;
+}

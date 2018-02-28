@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+hr{
+  margin:0;
+  padding:0;
+}
+table{
+  width:800px;
+  border-collapse:0;
+  border-spacing:0;
+  border-top:3px solid #EE82EE;
+  border-right:1px solid #778899;
+  border-bottom:1px solid #778899;
+  border-left:1px solid #778899;
+  text-align: center;
+  margin-left:200px;
+  
+}
+thead{
+  background: #8DB6CD;
+}
+td{
+  width:100px;
+  line-height:30px;
+  border-right: 1px dashed #8B6914; 
+}
+td:hover{
+  background: #BC8F8F;
+}
+td:last-child{
+  border-right:none;
+}
+a{
+  text-decoration: none;
+  font-size:20px;
+}
+a:hover{
+  color:#CD3700;
+}
